@@ -1,2 +1,2 @@
 # API_Docs
-币包接口<a href='https://github.com/bibaoapi/API_Docs/wiki'>文档</a> 
+币包API文档请参考本项目的<a href='https://github.com/bibaoapi/API_Docs/wiki'>Wiki文档</a>
